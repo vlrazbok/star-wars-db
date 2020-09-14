@@ -1,0 +1,12 @@
+.error-indicator{
+    text-align: center;
+    margin-left: 400px;
+    padding-top: 50px;
+    color: orange;
+    font-size: 18px;
+    height: 150px;
+}
+.boom {
+    font-weight: bold;
+    font-size: 21px;
+}
