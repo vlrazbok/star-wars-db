@@ -6,7 +6,7 @@ const  ErrorIndicator = () => {
       <div className="error-indicator">
            <span className="boom">BOOM!</span>
            <br></br>
-           <span> 
+           <span>  
              Something has gone terribly wrong
            </span>
       </div>
